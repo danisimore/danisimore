@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Danil%20Vorobyev&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Python%20Backend%20Developer&descSize=18&descAlignY=56" width="100%" alt="Danil Vorobyev, Python Backend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Danil%20Vorobyev&fontSize=46&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer&descSize=18&descAlignY=56" width="100%" alt="Danil Vorobyev, Full-Stack Engineer" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2A82DA&center=true&vCenter=true&width=620&lines=Backend+on+Python%2C+FastAPI+and+Odoo+17;Kafka+%E2%86%92+RabbitMQ+%E2%86%92+FastAPI+%E2%86%92+Odoo;Telegram+bots+with+AI+agents;Scrapers%2C+integrations%2C+automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2A82DA&center=true&vCenter=true&width=620&lines=Backend+on+Python%2C+FastAPI+and+Odoo+17;Kafka+%E2%86%92+RabbitMQ+%E2%86%92+FastAPI+%E2%86%92+Odoo;Telegram+bots+with+AI+agents;Landing+pages+with+GSAP+animations;Scrapers%2C+integrations%2C+automation" alt="Typing SVG" /></a>
 
 <p>
   <img src="https://img.shields.io/badge/ISP_RAS-Python_Developer-2a5298?style=flat-square" alt="ISP RAS, Python Developer" />
-  <img src="https://img.shields.io/badge/Experience-2.5%2B_years-2a5298?style=flat-square" alt="Experience 2.5+ years" />
+  <img src="https://img.shields.io/badge/Experience-3.5%2B_years-2a5298?style=flat-square" alt="Experience 3.5+ years" />
   <img src="https://img.shields.io/badge/Location-Kursk,_Russia-2a5298?style=flat-square" alt="Location Kursk, Russia" />
   <img src="https://img.shields.io/badge/Open_to-freelance-2ea44f?style=flat-square" alt="Open to freelance" />
 </p>
@@ -22,13 +22,14 @@ I'm a Python developer at [ISP RAS](https://www.ispras.ru/en/) since 2024. I bui
 - 🔭 Now working on a clinical trial management system (CTMS) on Odoo 17
 - ⚙️ I like reliable backends: idempotency, retries, queues and clean PostgreSQL
 - 🤖 In my spare time I build Telegram bots with LLM agents and market data tools
+- 🎨 I also make responsive layouts from Figma and landing pages with CSS and GSAP animations
 - 💬 Ask me about Odoo internals, Celery, RabbitMQ and Kafka
 - 📫 Open to freelance projects, contacts are at the bottom
 
 ## 🛠 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,rabbitmq,kafka,docker,linux,nginx,git,gitlab,js,sass,sqlite,bash&perline=8" alt="Python, FastAPI, Django, PostgreSQL, Redis, RabbitMQ, Kafka, Docker, Linux, Nginx, Git, GitLab, JavaScript, Sass, SQLite, Bash" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,rabbitmq,kafka,docker,linux,nginx,html,css,sass,js,bootstrap,figma,git,gitlab,bash,sqlite&perline=10" alt="Python, FastAPI, Django, PostgreSQL, Redis, RabbitMQ, Kafka, Docker, Linux, Nginx, HTML, CSS, Sass, JavaScript, Bootstrap, Figma, Git, GitLab, Bash, SQLite" />
 </p>
 
 <p align="center">
@@ -38,11 +39,13 @@ I'm a Python developer at [ISP RAS](https://www.ispras.ru/en/) since 2024. I bui
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
   <img src="https://img.shields.io/badge/aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/GSAP-0AE448?style=for-the-badge&logo=gsap&logoColor=black" alt="GSAP" />
 </p>
 
 | Area | Tools |
 |---|---|
 | **Backend** | Python 3.11, FastAPI, Django REST Framework, Odoo 17 (ORM, OWL, QWeb), asyncio, aiohttp |
+| **Frontend** | HTML, CSS, SCSS, JavaScript, Bootstrap, GSAP, responsive layout from Figma |
 | **Queues and tasks** | Kafka, RabbitMQ, Celery, Redis |
 | **Databases** | PostgreSQL, SQLAlchemy 2, Alembic, asyncpg, SQLite |
 | **Bots and AI** | aiogram, LLM tool calling (DeepSeek, GigaChat), LangChain, faster-whisper |
@@ -76,6 +79,7 @@ I'm a Python developer at [ISP RAS](https://www.ispras.ru/en/) since 2024. I bui
 
 <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://kwork.ru/user/YOUR_KWORK_LOGIN"><img src="https://img.shields.io/badge/Kwork-hire_me-FF6F00?style=for-the-badge" alt="Kwork" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" width="100%" alt="" />
 
