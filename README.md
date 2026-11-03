@@ -76,7 +76,6 @@ I'm a Python developer at [ISP RAS](https://www.ispras.ru/en/) since 2024. I bui
 
 <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://kwork.ru/user/YOUR_KWORK_LOGIN"><img src="https://img.shields.io/badge/Kwork-hire_me-FF6F00?style=for-the-badge" alt="Kwork" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=100&section=footer" width="100%" alt="" />
 
