@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="" target="_blank">Danil</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Python+Developer+from+Russia+" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Python+Developer+" alt="Typing SVG" /></a></h3>
 <hr>
 <h3>About me</h3>
 <p>I am a beginner python developer. My long-term goals are to become a strong specialist in writing clean and optimized code. I chose python as the first programming language (the first one, because I plan to study JS in the future), because it has a number of features: a large community, a huge number of libraries, great variability of application, simple syntax, and all this makes it just an excellent language for entering the IT specialty.
